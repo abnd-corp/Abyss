@@ -246,7 +246,7 @@ Pour déployer en production :
 
 ## 📄 Licence
 
-MIT License - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+AGPL-3.0-or-later - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
 
